@@ -1,3 +1,4 @@
 gem 'jekyll-paginate'
-gem "jekyll", "~> 4.4.1"
+gem "jekyll"
 gem "jekyll-paginate"
+gem 'github-pages', group: :jekyll_plugins
